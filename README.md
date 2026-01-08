@@ -176,7 +176,7 @@ python run_tests.py coverage
 - **01_basic_ising.md**: Ising model explaination from physics
 - **02_hieratchy.md**: Elaboration on the hierarchical model of traders
 - **03_market_dynamics.md**: Dynamics of the market, bubbles, and crashes
-- **Web App Theory Tab**: Complete LPPL fitting walkthrough
+- **04_log_periodic_powerlaw_lppl**: Complete LPPL fitting walkthrough
 
 ### Key Concepts
 1. **Discrete Scale Invariance**: Patterns repeat at λ ratios, not all scales
