@@ -47,8 +47,10 @@ pytest tests/
 │   └── integration/          # Workflow tests (24)
 │
 └── tutorials/                 # Learning guides
-    ├── LPPL_FITTING_GUIDE.md
-    └── SENSITIVITY_ANALYSIS_GUIDE.md
+    ├── 01_basic_ising.md
+    ├── 02_hierarchy.md
+    ├── 03_market_dynamic.md
+    └── 04_log_periodic_powerlaw_lppl.md
 ```
 
 ## 🎯 Core Model
@@ -171,9 +173,10 @@ python run_tests.py coverage
 ## 📖 Documentation
 
 ### Tutorials
-- **LPPL_FITTING_GUIDE.md**: Complete LPPL fitting walkthrough
-- **SENSITIVITY_ANALYSIS_GUIDE.md**: Parameter effects explained
-- **Web App Theory Tab**: Interactive concepts with equations
+- **01_basic_ising.md**: Ising model explaination from physics
+- **02_hieratchy.md**: Elaboration on the hierarchical model of traders
+- **03_market_dynamics.md**: Dynamics of the market, bubbles, and crashes
+- **Web App Theory Tab**: Complete LPPL fitting walkthrough
 
 ### Key Concepts
 1. **Discrete Scale Invariance**: Patterns repeat at λ ratios, not all scales
